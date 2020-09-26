@@ -1,4 +1,4 @@
-![Pink Pokeballs Header Image](/pokemon.png)
+![Pink Pokeballs Header Image](https://github.com/elletownsend/PokemonTerminalGame/blob/master/pokemon.png)
 
 # Pokemon Terminal Game! ✨🌸🎮
 
