@@ -1,3 +1,4 @@
+![Pink Pokeballs Header Image](/pokemon.png)
 
 # Pokemon Terminal Game! ✨🌸🎮
 
